@@ -19,7 +19,7 @@ repositories {
 }
 
 jar {
-    baseName = 'gs-rest-service'
+    baseName = 'spring-boot-mongodb'
     version =  '0.1.0'
 }
 
